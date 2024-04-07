@@ -27,8 +27,8 @@ public:
             tail=tail->next;
             len++;
         }
-        if(k%len==0) return head;
         k=k%len;
+        if(k==0) return head;
         tail->next=head;
         ListNode* newLastNode=find(head,len-k);
         head=newLastNode->next;
