@@ -1,0 +1,39 @@
+class Solution {
+public:
+    int partition(vector<int>& arr, int s, int e) {
+
+        int randomIndex = s + rand() % (e - s + 1);
+        swap(arr[randomIndex], arr[s]);
+
+        int pivot = arr[s];
+        int cnt = 0;
+        for (int i = s + 1; i <= e; i++) {
+            if (arr[i] <= pivot)
+                cnt++;
+        }
+        int pivotIndex = s + cnt;
+        swap(arr[pivotIndex], arr[s]);
+        int i = s, j = e;
+        while (i < pivotIndex && j > pivotIndex) {
+            while (arr[i] <= pivot)
+                i++;
+            while (arr[j] > pivot)
+                j--;
+            if (i < pivotIndex && j > pivotIndex)
+                swap(arr[i++], arr[j--]);
+        }
+        return pivotIndex;
+    }
+
+    void quickSort(vector<int>& arr, int s, int e) {
+        if (s >= e)
+            return;
+        int p = partition(arr, s, e);
+        quickSort(arr, s, p - 1);
+        quickSort(arr, p + 1, e);
+    }
+    vector<int> sortArray(vector<int>& nums) {
+        quickSort(nums, 0, nums.size() - 1);
+        return nums;
+    }
+};
