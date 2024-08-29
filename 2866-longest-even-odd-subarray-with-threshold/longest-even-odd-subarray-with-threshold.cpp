@@ -1,20 +1,23 @@
 class Solution {
 public:
-    int longestAlternatingSubarray(vector<int>& nums, int threshold) {
-        int n=nums.size();
-        int best=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]%2!=0) continue;
-            if(nums[i]>threshold) continue;
-            for(int j=i;j<n;j++){
-                bool good=true;
-                for(int k=i+1;k<j+1;k++){
-                    if(nums[k]%2==nums[k-1]%2) good=false;
-                    if(nums[k]>threshold) good=false;
+    int longestAlternatingSubarray(vector<int>& nums, int t) {
+        int l=0;
+        for(int i=0;i<nums.size();){
+            if(nums[i]%2==0 && !(nums[i]>t)){
+                int s=1;
+                int p=0;
+                cout<<nums[i]<<endl;
+                i++;
+                while(i<nums.size() && p!=nums[i]%2 && !(nums[i]>t)){
+                    s++;
+                    p=nums[i]%2;
+                    i++;
                 }
-                if(good) best=max(best,j-i+1);
+                if(i<nums.size() && p==nums[i]%2 && p==0) i--;
+                l=max(l,s);
             }
+            i++;
         }
-        return best;
+        return l;
     }
 };
