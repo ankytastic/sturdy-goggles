@@ -1,15 +1,14 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& arr) {
-        set<int> st;
-        for(int i=0;i<arr.size();i++){
-            st.insert(arr[i]);
+    int removeDuplicates(vector<int>& nums) {
+        if(nums.size()==1) return 1;
+        int i=0;
+        for(int j=1;j<nums.size();j++){
+            if(nums[i]!=nums[j]){
+                i++;
+                nums[i]=nums[j];
+            }
         }
-        int index=0;
-        for(auto it:st){
-            arr[index]=it;
-            index++;
-        }
-        return index;
+        return i+1;
     }
 };
