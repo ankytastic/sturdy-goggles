@@ -15,4 +15,20 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ankytastic/sturdy-goggles/tree/main/0146-lru-cache/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ankytastic/sturdy-goggles/tree/main/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ankytastic/sturdy-goggles/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/ankytastic/sturdy-goggles/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
