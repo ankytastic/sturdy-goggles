@@ -8,6 +8,7 @@ A repository to keep my daily record of DSA codes
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ankytastic/sturdy-goggles/tree/main/0056-merge-intervals/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ankytastic/sturdy-goggles/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,6 +17,7 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ankytastic/sturdy-goggles/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
