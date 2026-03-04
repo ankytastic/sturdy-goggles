@@ -7,6 +7,7 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ankytastic/sturdy-goggles/tree/main/0056-merge-intervals/) | Medium |
+| [0198-house-robber](https://github.com/ankytastic/sturdy-goggles/tree/main/0198-house-robber/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankytastic/sturdy-goggles/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Greedy
@@ -38,4 +39,8 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ankytastic/sturdy-goggles/tree/main/0056-merge-intervals/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/ankytastic/sturdy-goggles/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
