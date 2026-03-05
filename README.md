@@ -57,4 +57,8 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ankytastic/sturdy-goggles/tree/main/0200-number-of-islands/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ankytastic/sturdy-goggles/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 <!---LeetCode Topics End-->
