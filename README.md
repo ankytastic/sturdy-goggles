@@ -62,5 +62,10 @@ A repository to keep my daily record of DSA codes
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0443-string-compression](https://github.com/ankytastic/sturdy-goggles/tree/main/0443-string-compression/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ankytastic/sturdy-goggles/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0443-string-compression](https://github.com/ankytastic/sturdy-goggles/tree/main/0443-string-compression/) | Medium |
 <!---LeetCode Topics End-->
