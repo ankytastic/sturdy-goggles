@@ -51,6 +51,7 @@ A repository to keep my daily record of DSA codes
 | ------- | ------- |
 | [0198-house-robber](https://github.com/ankytastic/sturdy-goggles/tree/main/0198-house-robber/) | Medium |
 | [0396-rotate-function](https://github.com/ankytastic/sturdy-goggles/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/ankytastic/sturdy-goggles/tree/main/0788-rotated-digits/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -77,4 +78,5 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/ankytastic/sturdy-goggles/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/ankytastic/sturdy-goggles/tree/main/0788-rotated-digits/) | Medium |
 <!---LeetCode Topics End-->
