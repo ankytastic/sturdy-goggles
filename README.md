@@ -57,6 +57,7 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ankytastic/sturdy-goggles/tree/main/0200-number-of-islands/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankytastic/sturdy-goggles/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +80,12 @@ A repository to keep my daily record of DSA codes
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/ankytastic/sturdy-goggles/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ankytastic/sturdy-goggles/tree/main/0788-rotated-digits/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankytastic/sturdy-goggles/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankytastic/sturdy-goggles/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
