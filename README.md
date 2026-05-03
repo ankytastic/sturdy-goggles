@@ -70,6 +70,7 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0443-string-compression](https://github.com/ankytastic/sturdy-goggles/tree/main/0443-string-compression/) | Medium |
+| [0796-rotate-string](https://github.com/ankytastic/sturdy-goggles/tree/main/0796-rotate-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ankytastic/sturdy-goggles/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -88,4 +89,8 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankytastic/sturdy-goggles/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/ankytastic/sturdy-goggles/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
