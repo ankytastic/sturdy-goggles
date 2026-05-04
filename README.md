@@ -6,6 +6,7 @@ A repository to keep my daily record of DSA codes
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ankytastic/sturdy-goggles/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/ankytastic/sturdy-goggles/tree/main/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/ankytastic/sturdy-goggles/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/ankytastic/sturdy-goggles/tree/main/0200-number-of-islands/) | Medium |
@@ -22,6 +23,7 @@ A repository to keep my daily record of DSA codes
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ankytastic/sturdy-goggles/tree/main/0048-rotate-image/) | Medium |
 | [0200-number-of-islands](https://github.com/ankytastic/sturdy-goggles/tree/main/0200-number-of-islands/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankytastic/sturdy-goggles/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -79,6 +81,7 @@ A repository to keep my daily record of DSA codes
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ankytastic/sturdy-goggles/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/ankytastic/sturdy-goggles/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ankytastic/sturdy-goggles/tree/main/0788-rotated-digits/) | Medium |
 ## Tree
