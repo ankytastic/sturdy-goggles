@@ -20,6 +20,7 @@ A repository to keep my daily record of DSA codes
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankytastic/sturdy-goggles/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2384-largest-palindromic-number](https://github.com/ankytastic/sturdy-goggles/tree/main/2384-largest-palindromic-number/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ankytastic/sturdy-goggles/tree/main/0146-lru-cache/) | Medium |
+| [2384-largest-palindromic-number](https://github.com/ankytastic/sturdy-goggles/tree/main/2384-largest-palindromic-number/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ A repository to keep my daily record of DSA codes
 | [0443-string-compression](https://github.com/ankytastic/sturdy-goggles/tree/main/0443-string-compression/) | Medium |
 | [0796-rotate-string](https://github.com/ankytastic/sturdy-goggles/tree/main/0796-rotate-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ankytastic/sturdy-goggles/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [2384-largest-palindromic-number](https://github.com/ankytastic/sturdy-goggles/tree/main/2384-largest-palindromic-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +99,8 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/ankytastic/sturdy-goggles/tree/main/0796-rotate-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2384-largest-palindromic-number](https://github.com/ankytastic/sturdy-goggles/tree/main/2384-largest-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
