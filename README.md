@@ -37,6 +37,7 @@ A repository to keep my daily record of DSA codes
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/ankytastic/sturdy-goggles/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/ankytastic/sturdy-goggles/tree/main/0146-lru-cache/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ A repository to keep my daily record of DSA codes
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/ankytastic/sturdy-goggles/tree/main/0061-rotate-list/) | Medium |
 | [0443-string-compression](https://github.com/ankytastic/sturdy-goggles/tree/main/0443-string-compression/) | Medium |
 ## Math
 | Problem Name | Difficulty |
