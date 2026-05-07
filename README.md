@@ -13,6 +13,7 @@ A repository to keep my daily record of DSA codes
 | [0396-rotate-function](https://github.com/ankytastic/sturdy-goggles/tree/main/0396-rotate-function/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankytastic/sturdy-goggles/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1861-rotating-the-box](https://github.com/ankytastic/sturdy-goggles/tree/main/1861-rotating-the-box/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankytastic/sturdy-goggles/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Greedy
@@ -28,6 +29,7 @@ A repository to keep my daily record of DSA codes
 | [0200-number-of-islands](https://github.com/ankytastic/sturdy-goggles/tree/main/0200-number-of-islands/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankytastic/sturdy-goggles/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1861-rotating-the-box](https://github.com/ankytastic/sturdy-goggles/tree/main/1861-rotating-the-box/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -83,6 +85,7 @@ A repository to keep my daily record of DSA codes
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/ankytastic/sturdy-goggles/tree/main/0061-rotate-list/) | Medium |
 | [0443-string-compression](https://github.com/ankytastic/sturdy-goggles/tree/main/0443-string-compression/) | Medium |
+| [1861-rotating-the-box](https://github.com/ankytastic/sturdy-goggles/tree/main/1861-rotating-the-box/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
