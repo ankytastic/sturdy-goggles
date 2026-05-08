@@ -15,6 +15,7 @@ A repository to keep my daily record of DSA codes
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankytastic/sturdy-goggles/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1861-rotating-the-box](https://github.com/ankytastic/sturdy-goggles/tree/main/1861-rotating-the-box/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ankytastic/sturdy-goggles/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3660-jump-game-ix](https://github.com/ankytastic/sturdy-goggles/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ A repository to keep my daily record of DSA codes
 | [0198-house-robber](https://github.com/ankytastic/sturdy-goggles/tree/main/0198-house-robber/) | Medium |
 | [0396-rotate-function](https://github.com/ankytastic/sturdy-goggles/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ankytastic/sturdy-goggles/tree/main/0788-rotated-digits/) | Medium |
+| [3660-jump-game-ix](https://github.com/ankytastic/sturdy-goggles/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ankytastic/sturdy-goggles/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
