@@ -110,4 +110,8 @@ A repository to keep my daily record of DSA codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2384-largest-palindromic-number](https://github.com/ankytastic/sturdy-goggles/tree/main/2384-largest-palindromic-number/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1527-patients-with-a-condition](https://github.com/ankytastic/sturdy-goggles/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
