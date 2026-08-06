@@ -113,6 +113,7 @@ A repository to keep my daily record of DSA codes
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0262-trips-and-users](https://github.com/ankytastic/sturdy-goggles/tree/main/0262-trips-and-users/) | Hard |
 | [0607-sales-person](https://github.com/ankytastic/sturdy-goggles/tree/main/0607-sales-person/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/ankytastic/sturdy-goggles/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
