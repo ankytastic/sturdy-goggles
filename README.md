@@ -115,6 +115,7 @@ A repository to keep my daily record of DSA codes
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/ankytastic/sturdy-goggles/tree/main/0178-rank-scores/) | Medium |
 | [0184-department-highest-salary](https://github.com/ankytastic/sturdy-goggles/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/ankytastic/sturdy-goggles/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0262-trips-and-users](https://github.com/ankytastic/sturdy-goggles/tree/main/0262-trips-and-users/) | Hard |
 | [0607-sales-person](https://github.com/ankytastic/sturdy-goggles/tree/main/0607-sales-person/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/ankytastic/sturdy-goggles/tree/main/1527-patients-with-a-condition/) | Easy |
